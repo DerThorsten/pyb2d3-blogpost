@@ -15,6 +15,14 @@
             "title": "ipecharts blog",
             "themeToggle": false
           }
+        },
+        "db.ipynb": {
+          "hideTopbar": true,
+          "defaultLayout": "article",
+          "topBar": {
+            "title": "ipecharts blog",
+            "themeToggle": false
+          }
         }
       },
       "labConfig": {
