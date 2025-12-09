@@ -6,3 +6,5 @@ dependencies:
   - xeus-python
   - pyb2d3-sandbox-ipycanvas
   - specta >= 0.3.2
+
+  
