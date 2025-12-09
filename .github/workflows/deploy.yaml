@@ -27,14 +27,14 @@ jobs:
           environment-file: .github/build-environment.yml
           cache-environment: true
       
-      - name: Build and install jupyterlite-xeus-loader
-        shell: bash -l {0}
-        run: |
-          git clone https://github.com/DerThorsten/jupyterlite-xeus-loader.git
-          cd jupyterlite-xeus-loader
-          jlpm install
-          jlpm run build
-          python -m pip install .
+      # - name: Build and install jupyterlite-xeus-loader
+      #   shell: bash -l {0}
+      #   run: |
+      #     git clone https://github.com/DerThorsten/jupyterlite-xeus-loader.git
+      #     cd jupyterlite-xeus-loader
+      #     jlpm install
+      #     jlpm run build
+      #     python -m pip install .
 
       - name: Build the JupyterLite site
         shell: bash -l {0}
