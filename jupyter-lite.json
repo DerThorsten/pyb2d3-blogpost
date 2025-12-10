@@ -4,7 +4,7 @@
     "contentsStorageDrivers": ["memoryStorageDriver"],
     "spectaConfig": {
       "topBar": {
-        "title": "Specta Tree"
+        "title": "pyb2d3"
       },
       "defaultLayout": "default",
       "perFileConfig": {
@@ -12,17 +12,10 @@
           "hideTopbar": true,
           "defaultLayout": "article",
           "topBar": {
-            "title": "ipecharts blog",
+            "title": "pyb2d3",
             "themeToggle": false
-          }
-        },
-        "db.ipynb": {
-          "hideTopbar": true,
-          "defaultLayout": "article",
-          "topBar": {
-            "title": "ipecharts blog",
-            "themeToggle": false
-          }
+          },
+          "executionDelay": 1500
         }
       },
       "labConfig": {
@@ -30,7 +23,8 @@
         "hideLeftPanel": true,
         "hideRightPanel": true,
         "hideStatusbar": true,
-        "hideHeader": false
+        "hideHeader": true,
+        "executionDelay": 1500
       }
     },
     "disabledExtensions": [

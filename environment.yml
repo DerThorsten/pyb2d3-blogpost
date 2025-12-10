@@ -4,7 +4,7 @@ channels:
   - https://repo.prefix.dev/conda-forge
 dependencies:
   - xeus-python
-  - pyb2d3-sandbox-ipycanvas
-  - specta >= 0.3.2
+  - pyb2d3-sandbox-ipycanvas >= 0.10.0
+  - specta >= 0.3.3
 
   
