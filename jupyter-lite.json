@@ -1,6 +1,6 @@
 {
   "jupyter-config-data": {
-    "enableMemoryStorage": false,
+    "enableMemoryStorage": true,
     "contentsStorageDrivers": ["memoryStorageDriver"],
     "spectaConfig": {
       "topBar": {
