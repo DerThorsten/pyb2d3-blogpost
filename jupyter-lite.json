@@ -1,7 +1,5 @@
 {
   "jupyter-config-data": {
-    "enableMemoryStorage": true,
-    "contentsStorageDrivers": ["memoryStorageDriver"],
     "spectaConfig": {
       "topBar": {
         "title": "pyb2d3"
