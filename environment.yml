@@ -5,7 +5,7 @@ channels:
 dependencies:
   - xeus-python
   - pyb2d3-sandbox-ipycanvas >= 0.11.1
-  - specta >= 0.3.3
+  # - specta >= 0.3.3
   - ipycanvas >= 0.14.2
 
   
