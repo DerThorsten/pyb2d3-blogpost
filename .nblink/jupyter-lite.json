@@ -16,6 +16,15 @@
             "themeToggle": false
           },
           "executionDelay": 3000
+        },
+        "notebooks/blog.ipynb": {
+          "hideTopbar": true,
+          "defaultLayout": "article",
+          "topBar": {
+            "title": "pyb2d3",
+            "themeToggle": false
+          },
+          "executionDelay": 3000
         }
       },
       "labConfig": {
