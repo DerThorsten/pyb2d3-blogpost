@@ -8,7 +8,7 @@
       },
       "defaultLayout": "default",
       "perFileConfig": {
-        "blog.ipynb": {
+        "notebooks/blog.ipynb": {
           "hideTopbar": true,
           "defaultLayout": "article",
           "topBar": {
@@ -23,7 +23,7 @@
         "hideLeftPanel": true,
         "hideRightPanel": true,
         "hideStatusbar": true,
-        "hideHeader": true,
+        "hideHeader": false,
         "executionDelay": 3000
       }
     },
