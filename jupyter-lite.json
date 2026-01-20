@@ -16,7 +16,7 @@
             "title": "JupyterGames",
             "themeToggle": false
           },
-          "executionDelay": 3000
+          "executionDelay": 1000
         }
       },
       "labConfig": {
@@ -25,7 +25,7 @@
         "hideRightPanel": true,
         "hideStatusbar": true,
         "hideHeader": false,
-        "executionDelay": 3000
+        "executionDelay": 1000
       }
     },
     "disabledExtensions": [
