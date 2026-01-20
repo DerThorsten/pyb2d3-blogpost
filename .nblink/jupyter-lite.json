@@ -13,7 +13,7 @@
           "hideHeader": false,
           "defaultLayout": "article",
           "topBar": {
-            "title": "pyb2d3",
+            "title": "JupyterGames",
             "themeToggle": false
           },
           "executionDelay": 3000
