@@ -4,15 +4,16 @@
     "contentsStorageDrivers": ["memoryStorageDriver"],
     "spectaConfig": {
       "topBar": {
-        "title": "pyb2d3"
+        "title": "JupyterGames"
       },
       "defaultLayout": "default",
       "perFileConfig": {
         "notebooks/blog.ipynb": {
-          "hideTopbar": true,
+          "hideTopbar": false,
+          "hideHeader": false,
           "defaultLayout": "article",
           "topBar": {
-            "title": "pyb2d3",
+            "title": "JupyterGames",
             "themeToggle": false
           },
           "executionDelay": 3000
@@ -33,3 +34,5 @@
     ]
   }
 }
+
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
