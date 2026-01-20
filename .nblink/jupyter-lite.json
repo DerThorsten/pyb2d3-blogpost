@@ -1,39 +1,8 @@
 {
   "jupyter-config-data": {
-    "enableMemoryStorage": true,
-    "contentsStorageDrivers": ["memoryStorageDriver"],
     "spectaConfig": {
       "topBar": {
         "title": "pyb2d3"
-      },
-      "defaultLayout": "default",
-      "perFileConfig": {
-        "blog.ipynb": {
-          "hideTopbar": true,
-          "defaultLayout": "article",
-          "topBar": {
-            "title": "pyb2d3",
-            "themeToggle": false
-          },
-          "executionDelay": 3000
-        },
-        "notebooks/blog.ipynb": {
-          "hideTopbar": true,
-          "defaultLayout": "article",
-          "topBar": {
-            "title": "pyb2d3",
-            "themeToggle": false
-          },
-          "executionDelay": 3000
-        }
-      },
-      "labConfig": {
-        "setSingleMode": true,
-        "hideLeftPanel": true,
-        "hideRightPanel": true,
-        "hideStatusbar": true,
-        "hideHeader": true,
-        "executionDelay": 3000
       }
     },
     "disabledExtensions": [
