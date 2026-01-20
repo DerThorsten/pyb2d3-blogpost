@@ -4,7 +4,7 @@
     "contentsStorageDrivers": ["memoryStorageDriver"],
     "spectaConfig": {
       "topBar": {
-        "title": "pyb2d3"
+        "title": "JupyterGames"
       },
       "defaultLayout": "default",
       "perFileConfig": {
